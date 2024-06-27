@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^5.1.6",
+    "@netlify/plugin-nextjs": "^5.3.3",
     "alias": "^0.0.5",
     "firebase": "^10.12.2",
     "lucide-react": "^0.394.0",
